@@ -1,1 +1,6 @@
 build
+**/.DS_Store
+**/.cache/
+**/.ipython/
+**/.jupyter/
+**/.local/
