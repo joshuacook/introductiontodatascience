@@ -6,4 +6,4 @@ services:
             - 8888:8888
         volumes:
             - .:/home/jovyan
-        command: start-notebook.sh --NotebookApp.token=""
+        command: start-notebook.sh --NotebookApp.token=""   

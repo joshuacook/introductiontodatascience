@@ -4,3 +4,4 @@ build
 **/.ipython/
 **/.jupyter/
 **/.local/
+**/.ipynb_checkpoints
