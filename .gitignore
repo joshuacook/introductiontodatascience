@@ -6,3 +6,5 @@ build
 **/.local/
 **/.ipynb_checkpoints
 text.pdf
+source/03-titanic/test.csv
+source/03-titanic/submission.csv

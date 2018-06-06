@@ -93,3 +93,4 @@ The Ames, Iowa Housing Dataset
      05-ames/05-13-Benchmark Model.ipynb
      05-ames/05-14-Learning_Curves.ipynb
      05-ames/05-15-Feature-Selection.ipynb
+     05-ames/05-16-More-GridSearch.ipynb

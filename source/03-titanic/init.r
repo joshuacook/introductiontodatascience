@@ -26,6 +26,11 @@ first_class_mask = titanic$Pclass == 1
 women_and_first_class_survived = rep(women_survived)
 women_and_first_class_survived[first_class_mask] = 1
 
+children_mask = titanic$Age < 7
+women_and_children_survived = rep(women_survived)
+women_and_children_survived[children_mask] = 1
+
+
 library(repr)
 options(repr.plot.width=10, repr.plot.height=4)
 
